@@ -19,10 +19,6 @@
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/mxgraph/-/mxgraph-3.7.5.tgz",
-  "_shasum": "eee833c5425653a44d32675a2bf87f3ca6b403d9",
-  "_spec": "mxgraph",
-  "_where": "D:\\appengine\\graph\\temp",
   "author": {
     "name": "JGraph Ltd",
     "email": "support@jgraph.com"
