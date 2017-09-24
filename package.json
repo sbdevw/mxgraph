@@ -1,24 +1,53 @@
 {
-  "_from": "mxgraph",
+  "_args": [
+    [
+      {
+        "raw": "mxgraph@^3.7.5",
+        "scope": null,
+        "escapedName": "mxgraph",
+        "name": "mxgraph",
+        "rawSpec": "^3.7.5",
+        "spec": ">=3.7.4 <4.0.0",
+        "type": "range"
+      },
+      "/Users/nic/source/cartographer-web"
+    ]
+  ],
+  "_from": "git+https://github.com/NicCOConnor/mxgraph.git",
   "_id": "mxgraph@3.7.5",
   "_inBundle": false,
-  "_integrity": "sha1-7ugzxUJWU6RNMmdaK/h/PKa0A9k=",
+  "_inCache": true,
+  "_integrity": "sha1-ZW55PvDczFYiUy69RKfKbGeSVWA=",
   "_location": "/mxgraph",
+  "_nodeVersion": "4.7.2",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/mxgraph-3.7.4.tgz_1498590682767_0.9278142049442977"
+  },
+  "_npmUser": {
+    "name": "drawio",
+    "email": "npm@jgraph.com"
+  },
+  "_npmVersion": "3.5.2",
   "_phantomChildren": {},
   "_requested": {
-    "type": "tag",
-    "registry": true,
-    "raw": "mxgraph",
+    "type": "git",
+    "raw": "mxgraph@git+https://github.com/NicCOConnor/mxgraph.git",
     "name": "mxgraph",
     "escapedName": "mxgraph",
-    "rawSpec": "",
-    "saveSpec": null,
-    "fetchSpec": "latest"
+    "rawSpec": "git+https://github.com/NicCOConnor/mxgraph.git",
+    "saveSpec": "git+https://github.com/NicCOConnor/mxgraph.git",
+    "fetchSpec": "https://github.com/NicCOConnor/mxgraph.git",
+    "gitCommittish": "master"
   },
   "_requiredBy": [
-    "#USER",
     "/"
   ],
+  "_resolved": "git+https://github.com/NicCOConnor/mxgraph.git#ba388ddeb2b2513cb2efc0137ddff83cf8dc6a86",
+  "_shasum": "1066f63fa63a8647dcdb0f1d8ccdbc191e6ed452",
+  "_shrinkwrap": null,
+  "_spec": "mxgraph@git+https://github.com/NicCOConnor/mxgraph.git",
+  "_where": "D:\\appengine\\graph\\temp3.7.5",
   "author": {
     "name": "JGraph Ltd",
     "email": "support@jgraph.com"
@@ -38,10 +67,27 @@
   },
   "deprecated": false,
   "description": "mxGraph is a fully client side JavaScript diagramming library that uses SVG and HTML for rendering.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "1066f63fa63a8647dcdb0f1d8ccdbc191e6ed452",
+    "tarball": "https://registry.npmjs.org/mxgraph/-/mxgraph-3.7.4.tgz"
+  },
   "homepage": "https://github.com/jgraph/mxgraph",
   "license": "Apache-2.0",
   "main": "./javascript/dist/build.js",
+  "maintainers": [
+    {
+      "name": "drawio",
+      "email": "npm@jgraph.com"
+    },
+    {
+      "name": "brendonboshell",
+      "email": "brendonboshell@gmail.com"
+    }
+  ],
   "name": "mxgraph",
+  "optionalDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jgraph/mxgraph.git"
